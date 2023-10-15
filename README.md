@@ -15,6 +15,9 @@ huh
 
 
 try this now
+<<<<<<< JeremyL574-patch-4
+=======
 =======
 submit everything here 👇
+>>>>>>> main
 >>>>>>> main
