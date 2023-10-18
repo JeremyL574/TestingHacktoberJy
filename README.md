@@ -1,4 +1,3 @@
-# TestingHacktober
 Hi
 testing hacktober
 Hello im trying to cook
@@ -7,3 +6,14 @@ oh god it smells bad
 im confused
 huh
 last one for the real ones
+
+
+
+
+
+
+
+
+
+try this now
+submit everything here 👇
