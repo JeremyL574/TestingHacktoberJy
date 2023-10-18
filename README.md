@@ -1,4 +1,3 @@
-# TestingHacktober
 Hi
 testing hacktober
 Hello im trying to cook
@@ -13,6 +12,7 @@ huh
 
 
 
-
 try this now
 i burned the kitchen.
+submit everything here 👇
+
